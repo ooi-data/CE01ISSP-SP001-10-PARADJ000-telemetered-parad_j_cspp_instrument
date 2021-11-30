@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE01ISSP-SP001-10-PARADJ000-telemetered-parad_j_cspp_instrument
-last_request: '2021-08-01T00:47:50.588363Z'
+last_request: '2021-11-30T23:05:37.779568Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSP-SP001-10-PARADJ000-telemetered-parad_j_cspp_instrument/main/history/response.json
-status: failed
+status: discontinued
